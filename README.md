@@ -1,5 +1,7 @@
 # 19_NYC_Weather_Forecast_Machine_Learning_Project 
 
+In this assignment, we are using machine learning to predict the weather forecasts for New York City. 
+
 <p align="center">
   <img src="Weather_Predictions.jpg">
 </p>
@@ -34,7 +36,7 @@ The following key will be required:
 The assumption here is that your computer is running on Windows 10.
 Feel free to adjust if you are using a Mac OS or any other operating system.
 
-What things you need to install the software and how to install them:
+What software do you need and how to install them?
 
 * Anaconda
 * Required modules: [See details](Python_Modules.txt)
@@ -75,10 +77,13 @@ The following tools and coding languages were used:
 The code is available as follows:
 * [Jupyter Notebook](Analysis.ipynb)
 
-We used 2 separate models: ARIMA (Auto Regressive Moving Average) & LSTM (Long Short-Term Memory). 
-The same dataset was split in this manner:
-*  80% Train data,
-*  20% Test data.
+We used 2 separate models: 
+* ARIMA (Auto Regressive Moving Average)
+* LSTM (Long Short-Term Memory)
+
+Each dataset was split in this manner:
+*  80% Train data
+*  20% Test data
 
 
 ### **Step 2: Extract all files & run the code**
