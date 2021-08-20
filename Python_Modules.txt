@@ -1,0 +1,129 @@
+# This file may be used to create an environment using:
+
+# $ conda create -n PythonAdv --file <path to requirements file> python=3.6
+
+# These packages aren't available
+
+# libedit
+# libgfortran
+# ncurses
+# readline
+
+# You need these to run Jupyter Notebook/Lab
+
+ipykernel
+matplotlib
+
+_tflow_select
+
+absl-py
+
+astor
+
+blas
+
+c-ares
+
+ca-certificates
+
+certifi
+
+gast
+
+google-pasta
+
+grpcio
+
+h5py
+
+hdf5
+
+intel-openmp
+
+joblib
+
+keras-applications
+
+keras-preprocessing
+
+#libcxx
+
+# libedit
+
+#libffi
+
+# libgfortran
+
+libprotobuf
+
+#llvm-openmp
+
+markdown
+
+mkl
+
+mkl-service
+
+mkl_fft
+
+mkl_random
+
+# ncurses
+
+numpy
+
+numpy-base
+
+openssl
+
+opt_einsum
+
+pandas
+
+pip
+
+protobuf
+
+py4j
+
+pyspark
+
+python=3.8.3
+
+python-dateutil
+
+pytz
+
+# readline
+
+scikit-learn
+
+scipy
+
+setuptools
+
+six
+
+sqlite
+
+tensorboard
+
+tensorflow
+
+tensorflow-base
+
+tensorflow-estimator
+
+termcolor
+
+tk
+
+werkzeug
+
+wheel
+
+wrapt
+
+xz
+
+zlib
