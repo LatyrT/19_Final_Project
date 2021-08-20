@@ -59,14 +59,13 @@ The following tools and coding languages were used:
 
 * Reference Code:
   * ARIMA: 
-      https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
-      https://machinelearningmastery.com/time-series-data-stationary-python/
+      * https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+      * https://machinelearningmastery.com/time-series-data-stationary-python/
 
   * Neural Network (LSTM): 
-      https://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1, 2, 3
-      https://www.wunderground.com/
-      https://pdfs.semanticscholar.org/2761/8afb77c5081d942640333528943149a66edd.pdf
-
+      * https://stackabuse.com/using-machine-learning-to-predict-the-weather-part-1, 2, 3
+      * https://www.wunderground.com/
+      * https://pdfs.semanticscholar.org/2761/8afb77c5081d942640333528943149a66edd.pdf
 
 
 ## **6. Run the code**
