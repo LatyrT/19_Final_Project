@@ -81,7 +81,7 @@ We used 2 separate models:
 * ARIMA (Auto Regressive Moving Average)
 * LSTM (Long Short-Term Memory)
 
-Each dataset was split in this manner:
+Each model was split in this manner:
 *  80% Train data
 *  20% Test data
 
